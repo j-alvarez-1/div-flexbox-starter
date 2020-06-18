@@ -131,13 +131,11 @@ body {
   height: auto;
 }
 .div2 {
-  border-left: solid;
-  border-left-width: thin;
+  border-left-style: solid thin;
   border-color: white;
 }
 .div3 {
-  border-left: solid;
-  border-left-width: thin;
+  border-left-style: solid thin;
   border-color: white;
 }
 
